@@ -19,17 +19,8 @@
 
 
 <a href="LINK_BURAYA">
-  <img src="https://img.shields.io/badge/İndirmek İçin Tıklayın!-green?style=flat&logo=github" width="200">
+  <img src="https://img.shields.io/badge/İndirmek İçin Tıklayın!-green?style=flat&logo=github" width="150">
 </a>
-
-
-<a href="LINK_BURAYA">
-  <img src="https://img.shields.io/badge/Download!-green?style=flat-square&logo=github" width="200">
-</a>
-
-
-
-
 
 
 
