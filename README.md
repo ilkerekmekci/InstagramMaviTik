@@ -7,3 +7,21 @@
 
 
 [![Download](https://img.shields.io/badge/Download!-black?style=for-the-badge&logo=github&logoColor=white)](LINK_BURAYA)
+
+
+
+
+<a href="LINK_BURAYA">
+  <img src="https://img.shields.io/badge/Download!-green?style=for-the-badge&logo=github" width="200">
+</a>
+
+
+
+
+
+
+
+
+
+
+
